@@ -1,0 +1,46 @@
+body {
+  background-color: #1f1a25;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+h1,
+a,
+p {
+  color: #ffffff;
+  font-family: "Bebas Neue", cursive;
+}
+
+h1 {
+  font-size: 15rem;
+}
+
+p {
+  font-size: 20px;
+}
+
+img {
+  width: 350px;
+  height: 350px;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  width: 100vh;
+  margin-top: 15vh;
+}
+
+.title {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.author {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
