@@ -1,0 +1,229 @@
+body {
+  display: flex;
+  flex: 1;
+  position: relative;
+  flex-direction: column;
+  background: #1f1a25;
+  align-items: center;
+  justify-content: center;
+  margin-top: 25%;
+}
+
+.card {
+  position: absolute;
+  width: 800px;
+  height: 400px;
+  transform-style: preserve-3d;
+  transition: all 1s linear;
+  background: transparent;
+  border-radius: 24px;
+}
+
+.card:hover {
+  transform: rotateY(180deg);
+  cursor: pointer;
+}
+
+.front {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  color: #ffffff;
+  border-radius: 24px;
+  box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.5);
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+.back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  color: #ffffff;
+  border-radius: 24px;
+  box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.5);
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  transform: rotateY(180deg);
+}
+
+.container-name {
+  display: flex;
+  height: 100px;
+  justify-content: flex-end;
+  padding-top: 0px;
+  padding-right: 16px;
+  border-radius: 24px;
+}
+
+.container-chip {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  height: 200px;
+}
+
+.container-bank {
+  display: flex;
+  height: 100%;
+  margin-right: 62%;
+  flex-direction: row;
+}
+
+.container-mastercard {
+  display: flex;
+  height: 100px;
+  border-radius: 24px;
+  justify-content: flex-end;
+  align-items: center;
+  padding-right: 8px;
+}
+
+.name {
+  font-size: 20px;
+  font-family: "Mukta", sans-serif;
+}
+
+.name-one {
+  font-size: 20px;
+  font-family: "Mukta", sans-serif;
+}
+
+.name-two {
+  font-size: 30px;
+  font-family: "Inter", sans-serif;
+}
+
+.chip-image {
+  width: 160px;
+  height: 100px;
+}
+
+.mastercard-image {
+  width: 120px;
+  height: 120px;
+}
+
+.container-phone {
+  display: flex;
+  height: 20px;
+  justify-content: flex-start;
+  align-items: center;
+  margin-left: 16px;
+  border-radius: 24px;
+}
+
+.container-gray {
+  background: hsl(0, 0%, 50%, 0.9);
+  display: flex;
+  height: 80px;
+  justify-content: flex-end;
+}
+
+.container-information {
+  display: flex;
+  flex-direction: row;
+  height: 300px;
+  border-radius: 24px;
+}
+
+.container-card {
+  display: flex;
+  flex-direction: column;
+  width: 600px;
+  height: 300px;
+}
+
+.container-valid {
+  width: 100px;
+  margin-left: 30px;
+}
+
+.container-numbers {
+  height: 200px;
+}
+
+.container-security {
+  display: flex;
+  width: 500px;
+  justify-content: space-around;
+  flex-direction: row;
+}
+
+.container-numbers {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.container-values {
+  display: flex;
+  flex-direction: row;
+}
+
+.container-mastercard-back {
+  display: flex;
+  width: 600px;
+  justify-content: flex-start;
+}
+
+.container-relations {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: justify-start;
+  width: 200px;
+  padding-left: 5px;
+  height: 300px;
+  border-radius: 24px;
+}
+
+.container-text {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+
+.text-rl {
+  font-size: 10px;
+  font-family: "Mukta", sans-serif;
+}
+
+.number-rl {
+  font-size: 8px;
+  font-family: "Mukta", sans-serif;
+  padding-top: 1px;
+}
+
+.title {
+  font-size: 10px;
+  font-family: "Mukta", sans-serif;
+}
+
+.cirrus {
+  width: 100px;
+  height: 100px;
+}
+
+.numbers {
+  font-size: 40px;
+  font-family: "Mukta", sans-serif;
+}
+
+.mastercard-phone {
+  font-size: 10px;
+  font-family: "Mukta", sans-serif;
+}
+
+.text {
+  font-size: 15px;
+  font-family: "Mukta", sans-serif;
+}
+
+.number {
+  font-size: 20px;
+  font-family: "Mukta", sans-serif;
+}
