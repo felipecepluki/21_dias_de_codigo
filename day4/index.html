@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <script src="index.js" defer></script>
+    <title>Calculator</title>
+  </head>
+  <body>
+    <div class="calculator-container">
+      <div class="output">
+        <div data-previous-operand class="previous-operand"></div>
+        <div data-current-operand class="current-operand"></div>
+      </div>
+      <div class="container-all-buttons">
+        <div class="container-buttons">
+          <button data-all-clear class="operator-gray">AC</button>
+          <button data-operations class="operator-gray">+/-</button>
+          <button data-operations class="operator-gray">%</button>
+          <button data-operations class="operator-orange">÷</button>
+        </div>
+        <div class="container-buttons">
+          <button data-number class="numbers">7</button>
+          <button data-number class="numbers">8</button>
+          <button data-number class="numbers">9</button>
+          <button data-operations class="operator-orange">x</button>
+        </div>
+        <div class="container-buttons">
+          <button data-number class="numbers">4</button>
+          <button data-number class="numbers">5</button>
+          <button data-number class="numbers">6</button>
+          <button data-operations class="operator-orange">-</button>
+        </div>
+        <div class="container-buttons">
+          <button data-number class="numbers">1</button>
+          <button data-number class="numbers">2</button>
+          <button data-number class="numbers">3</button>
+          <button data-operations class="operator-orange">+</button>
+        </div>
+        <div class="container-buttons">
+          <button data-number class="span-zero">0</button>
+          <button data-number class="numbers">.</button>
+          <button data-equals class="operator-orange">=</button>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

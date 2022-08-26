@@ -10,11 +10,11 @@
 - [x] 1. Crie um repositório para listar os projetos que serão desenvolvidos durante os 21 dias de código.
 - [x] 2. Faça um Hello World customizado com fontes, cores e imagens.
 - [x] 3. Crie um botão animado.
-- [ ] 4. Crie uma calculadora.
+- [x] 4. Crie uma calculadora.
 - [x] 5. Desenvolva uma página customizada que exiba o erro 404.
 - [x] 6. Crie um card com o efeito glassmorphism.
-- [ ] 7. Desenvolva um contador.
-- [ ] 8. Desenvolva um toggle que altere o tema para claro e escuro.
+- [x] 7. Desenvolva um contador.
+- [x] 8. Desenvolva um toggle que altere o tema para claro e escuro.
 - [ ] 9. Crie uma animação de Loading.
 - [ ] 10. Utilize a lib Particle.js do JavaScript.
 - [ ] 11. Crie o layout de um formulário de login.
@@ -25,3 +25,7 @@
 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" /></a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/javascript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" /></a>
+<a href="https://reactjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" /></a>
+<a href="https://tailwindcss.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50px" /></a>
+<a href="https://vitejs.dev/"><img src="./.github/vite.svg" width="50px" /></a>
