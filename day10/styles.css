@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background: #1f1a25;
+  overflow: hidden;
+}
+
+strong,
+a,
+p {
+  color: #ffffff;
+  font-family: "Bebas Neue", cursive;
+}
+
+strong {
+  font-size: 100px;
+}
+
+#particles-js {
+  height: 100%;
+  width: 100%;
+}
+
+.text-container {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+}
+
+.author {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

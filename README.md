@@ -15,8 +15,8 @@
 - [x] 6. Crie um card com o efeito glassmorphism.
 - [x] 7. Desenvolva um contador.
 - [x] 8. Desenvolva um toggle que altere o tema para claro e escuro.
-- [ ] 9. Crie uma animação de Loading.
-- [ ] 10. Utilize a lib Particle.js do JavaScript.
+- [x] 9. Crie uma animação de Loading.
+- [x] 10. Utilize a lib Particle.js do JavaScript.
 - [ ] 11. Crie o layout de um formulário de login.
 - [ ] 12. Desenvolva uma galeria de imagens.
 - [ ] 13. Desenvolva um menu responsivo.
@@ -28,4 +28,5 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/javascript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" /></a>
 <a href="https://reactjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" /></a>
 <a href="https://tailwindcss.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50px" /></a>
+<a href="https://sass-lang.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50px" /></a>
 <a href="https://vitejs.dev/"><img src="./.github/vite.svg" width="50px" /></a>
