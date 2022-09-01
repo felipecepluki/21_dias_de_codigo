@@ -17,7 +17,7 @@
 - [x] 8. Desenvolva um toggle que altere o tema para claro e escuro.
 - [x] 9. Crie uma animação de Loading.
 - [x] 10. Utilize a lib Particle.js do JavaScript.
-- [ ] 11. Crie o layout de um formulário de login.
+- [x] 11. Crie o layout de um formulário de login.
 - [ ] 12. Desenvolva uma galeria de imagens.
 - [ ] 13. Desenvolva um menu responsivo.
 - [ ] 14. Crie um formulário de quizzes. 
