@@ -18,7 +18,7 @@
 - [x] 9. Crie uma animação de Loading.
 - [x] 10. Utilize a lib Particle.js do JavaScript.
 - [x] 11. Crie o layout de um formulário de login.
-- [ ] 12. Desenvolva uma galeria de imagens.
+- [x] 12. Desenvolva uma galeria de imagens.
 - [ ] 13. Desenvolva um menu responsivo.
 - [ ] 14. Crie um formulário de quizzes. 
 ## Tecnologias
