@@ -19,7 +19,7 @@
 - [x] 10. Utilize a lib Particle.js do JavaScript.
 - [x] 11. Crie o layout de um formulário de login.
 - [x] 12. Desenvolva uma galeria de imagens.
-- [ ] 13. Desenvolva um menu responsivo.
+- [x] 13. Desenvolva um menu responsivo.
 - [ ] 14. Crie um formulário de quizzes. 
 ## Tecnologias
 
