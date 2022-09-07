@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: #1f1a25;
+}
+
+.card {
+  position: absolute;
+  width: 30%;
+  height: 55%;
+  backface-visibility: hidden;
+  color: #ffffff;
+  border-radius: 24px;
+  box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.5);
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.5);
+}

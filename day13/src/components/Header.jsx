@@ -33,7 +33,7 @@ export function Header() {
 
   return (
     <div className="">
-      <div className="flex pt-1 justi lg:hidden sm:absolute">
+      <div className="flex pt-1 lg:hidden sm:absolute">
         <button
           className="p-2 pl-4 pr-4 transparent transition-colors ring-1 shadow-md ring-white text-white rounded-xl"
           onClick={showHeader}

@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Air Jordan 1 Off White",
+    "image": "/src/assets/air-jordan.jpg",
+    "price": "400",
+    "id": "air-jordan",
+    "description": "Popular Air Jordan 1",
+    "brand": "Nike"
+  },
+  {
+    "title": "Yeezy Boost 350",
+    "image": "/src/assets/yeezy-boost.jpg",
+    "price": "200",
+    "id": "yeezy-boost",
+    "description": "Best Hype Sneaker from Adidas",
+    "brand": "Adidas"
+  }
+]

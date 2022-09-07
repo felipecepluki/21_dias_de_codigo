@@ -21,7 +21,7 @@
 - [x] 12. Desenvolva uma galeria de imagens.
 - [x] 13. Desenvolva um menu responsivo.
 - [x] 14. Crie um formulário de quizzes. 
-- [ ] 15. Desenvolva um site que exiba uma vitrine de produtos de um e-commerce fictício (com nome dos produtos, preços e imagens).
+- [x] 15. Desenvolva um site que exiba uma vitrine de produtos de um e-commerce fictício (com nome dos produtos, preços e imagens).
 - [ ] 16. Desenvolva um site utilizando alguma API pública.
 - [ ] 17. Desenvolva um site que capture os eventos do teclado e exiba na tela o evento e a tecla pressionada. 
 - [ ] 18. Desenvolva um gerador de senhas aleatórias.
@@ -37,3 +37,4 @@
 <a href="https://tailwindcss.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50px" /></a>
 <a href="https://sass-lang.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50px" /></a>
 <a href="https://vitejs.dev/"><img src="./.github/vite.svg" width="50px" /></a>
+<a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50px" /></a>
