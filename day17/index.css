@@ -1,0 +1,14 @@
+body {
+  background: #1f1a25;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+}
+
+p {
+  color: #ffffff;
+  font-size: 2rem;
+  font-family: "JetBrains Mono", monospace;
+}

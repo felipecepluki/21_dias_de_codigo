@@ -22,12 +22,12 @@
 - [x] 13. Desenvolva um menu responsivo.
 - [x] 14. Crie um formulário de quizzes. 
 - [x] 15. Desenvolva um site que exiba uma vitrine de produtos de um e-commerce fictício (com nome dos produtos, preços e imagens).
-- [ ] 16. Desenvolva um site utilizando alguma API pública.
-- [ ] 17. Desenvolva um site que capture os eventos do teclado e exiba na tela o evento e a tecla pressionada. 
-- [ ] 18. Desenvolva um gerador de senhas aleatórias.
-- [ ] 19. Desenvolva um site que gere imagens aleatórias utilizando a API do Unsplash.
-- [ ] 20. Desenvolva um site de emoji picker. Ao selecionar o emoji, é copiado para a área de transferência. 
-- [ ] 21. Desenvolva uma página para ser seu portfólio.
+- [x] 16. Desenvolva um site utilizando alguma API pública.
+- [x] 17. Desenvolva um site que capture os eventos do teclado e exiba na tela o evento e a tecla pressionada. 
+- [x] 18. Desenvolva um gerador de senhas aleatórias.
+- [x] 19. Desenvolva um site que gere imagens aleatórias utilizando a API do Unsplash.
+- [x] 20. Desenvolva um site de emoji picker. Ao selecionar o emoji, é copiado para a área de transferência. 
+- [x] 21. Desenvolva uma página para ser seu portfólio.
 ## Tecnologias
 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" /></a>
